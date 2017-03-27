@@ -1,1 +1,1 @@
-# structured_data
+This is a master project for the class 'Structure Data' hold by Florence d'Alché Buc and Slim Essid
