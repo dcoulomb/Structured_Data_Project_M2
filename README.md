@@ -22,10 +22,10 @@ Thanks a lot to them.
 
 ## Files & Folders
 
-- /$\ver?MST_MMCRF.ipynb?$ : implemented the Max-margin Conditionnal Random Fields method to resolve the problem
-- /$\ver?SVM.ipynb?$ : implemented the SVM method to reslove the problem
-- /$\ver?spanning_tree.py?$ : open-source code from the 'NetworkX' package
-- /$\ver?Data_preprocessing_and_SVM.ipynb?$ : some preprocessing
+- /$\verb?MST_MMCRF.ipynb?$ : implemented the Max-margin Conditionnal Random Fields method to resolve the problem
+- /$\verb?SVM.ipynb?$ : implemented the SVM method to reslove the problem
+- /$\verb?spanning_tree.py?$ : open-source code from the 'NetworkX' package
+- /$\verb?Data_preprocessing_and_SVM.ipynb?$ : some preprocessing
 
 - /Report : contains our conlusions on our work. It is the report we gave to our Professors.
 
