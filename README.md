@@ -12,7 +12,7 @@ The goal was to implement the methods presented in the paper and to comment the 
 
 To do that, the authors shared with us their work and we used a lot of what they did:
 
-Here is the github repository in reference: https://github.com/hongyusu/Molecular_Classification
+Here is the GitHub repository in reference: https://github.com/hongyusu/Molecular_Classification
 
 The folder /references contains:
 - the original matlab code they shared with us
@@ -28,5 +28,10 @@ Thanks a lot to them.
 - /data_clean: contains the dataset used in the above notebooks
 - /report: contains our conclusions (based on our own work). It is actually the report that we gave to our Professors
 - /references: contains the original MATLAB code from Juho Rousu (Department of Computer Science, Aalto University).
+
+### Special note:
+
+In case you wish to use any of the present material, **please ask the authors to refer to the book chapter (Rousu et al, 2007) introducing MMCRF**.
+In order to cite, please refer to: https://scholar.google.fr/scholar?hl=fr&q=Structured+Output+Prediction+of+Anti-cancer+Drug+Activity&btnG=&lr=.
 
 
