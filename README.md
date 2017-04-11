@@ -2,7 +2,7 @@
 
 This is a master project for the class **Structure Data** hold by Florence d'Alché Buc and Slim Essid at *M2 Data Siences - Université Paris-Saclay*.
 
-We worked on the following article paper:
+We worked on the following article:
 
 Su, H., Heinonen, M., & Rousu, J. (2010, September). Structured output prediction of anti-cancer drug activity. In *IAPR International Conference on Pattern Recognition in Bioinformatics* (pp. 38-49). Springer Berlin Heidelberg. (http://link.springer.com/chapter/10.1007/978-3-642-16001-1_4)
 
@@ -16,7 +16,7 @@ Here is the github repository in reference: https://github.com/hongyusu/Molecula
 
 The folder /references contains:
 - the original matlab code they shared with us
-- the paper in reference
+- the article in reference
 
 Thanks a lot to them.
 
