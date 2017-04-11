@@ -26,7 +26,7 @@ Thanks a lot to them.
 - SVM.ipynb: implements a Support Vector Machine (SVM) classifier to to resolve the problem
 - spanning_tree.py: implements the maximum-weight spanning tree algorithm (open-source code from the 'NetworkX' package: https://networkx.readthedocs.io/en/latest/_modules/networkx/algorithms/tree/mst.html#maximum_spanning_tree)
 - /data_clean: contains the dataset used in the above notebooks
-- /report: contains our conlusions on our work. It is the report we gave to our Professors
+- /report: contains our conclusions (based on our own work). It is actually the report that we gave to our Professors
 - /references: contains the original MATLAB code from Juho Rousu (Department of Computer Science, Aalto University).
 
 
