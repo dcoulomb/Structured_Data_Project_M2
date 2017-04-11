@@ -22,11 +22,11 @@ Thanks a lot to them.
 
 ## Files & Folders
 
-- /MST_MMCRF.ipynb: implemented the Max-margin Conditionnal Random Fields method to resolve the problem
-- /SVM.ipynb: implemented the SVM method to reslove the problem
-- /spanning_tree.py: open-source code from the 'NetworkX' package
-- /Data_preprocessing_and_SVM.ipynb: some preprocessing
-
-- /Report: contains our conlusions on our work. It is the report we gave to our Professors.
+- MST_MMCRF.ipynb: implements the Max-margin Conditionnal Random Fields (MMCRF) algorithm to resolve the problem
+- SVM.ipynb: implements a Support Vector Machine (SVM) classifier to to resolve the problem
+- spanning_tree.py: implements the maximum-weight spanning tree algorithm (open-source code from the 'NetworkX' package: https://networkx.readthedocs.io/en/latest/_modules/networkx/algorithms/tree/mst.html#maximum_spanning_tree)
+- /data_clean: contains the dataset used in the above notebooks
+- /report: contains our conlusions on our work. It is the report we gave to our Professors
+- /references: contains the original MATLAB code from Juho Rousu (Department of Computer Science, Aalto University).
 
 
